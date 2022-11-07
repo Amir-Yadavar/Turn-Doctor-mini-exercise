@@ -1,16 +1,16 @@
 # Turn-Doctor
 
-##With this project, you can get a doctor's appointment. Good luck
+## With this project, you can get a doctor's appointment. Good luck
 
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/110972269/200397397-6e23bc3e-e360-4f9d-947a-105225dd68f5.png)
 
 
-🔗 [Demo Project]( https://amir-yadavar.github.io/Css-tricks-mini-exercise/)
+🔗 [Demo Project]()
 
 - 👨‍💻 Developed by Amir Yadavar
 
-- 🤖 Technologies Used - Html , Css 
+- 🤖 Technologies Used - Html , Css  , js
 
 - 🕵🏻‍♀️ Role - Frontend
 
