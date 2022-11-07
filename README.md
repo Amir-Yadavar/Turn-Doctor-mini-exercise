@@ -6,7 +6,7 @@
 ![Screenshot (48)](https://user-images.githubusercontent.com/110972269/200397397-6e23bc3e-e360-4f9d-947a-105225dd68f5.png)
 
 
-🔗 [Demo Project]()
+🔗 [Demo Project](https://amir-yadavar.github.io/Turn-Doctor-mini-exercise/)
 
 - 👨‍💻 Developed by Amir Yadavar
 
